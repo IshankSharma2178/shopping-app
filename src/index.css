@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
-    --background-color:#003c0c;
-}
-
-[data-theme="dark"]{
-    --background-color:#007acc;
-    
-}

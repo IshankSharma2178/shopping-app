@@ -25,7 +25,7 @@ function Cart() {
                     ))
                 }
                 </div>
-                <div className='flex px-10 mt-10  flex-col '>
+                <div className='flex px-10 mt-10 flex-col '>
                     <div className='text-[1.3rem] uppercase font-semibold text-[#15803d]'>Your Cart</div>
                     <div className='text-[#15803d] mb-5 font-semibold text-5xl    uppercase '>Summary</div>
                     <p className='mb-3'> 
